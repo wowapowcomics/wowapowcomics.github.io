@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WOW-A-POW COMICS
 
 You can use the [editor on GitHub](https://github.com/wowapowcomics/wowapowcomics.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
