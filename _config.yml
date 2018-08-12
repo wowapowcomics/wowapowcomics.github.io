@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Wow-a-Pow"
+title:		           "Wow-a-Pow Comics"
 description:	       "Drawn"
 author:              "Nolan Johnson"
 
