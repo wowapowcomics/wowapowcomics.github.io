@@ -14,8 +14,8 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Wow-a-Pow Comics"
-description:	       "by Nolan Johnson"
+title:		           "Wow-a-Pow"
+description:	       "I like to draw."
 author:              "Nolan Johnson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
