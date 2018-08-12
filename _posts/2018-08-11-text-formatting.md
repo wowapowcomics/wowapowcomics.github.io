@@ -2,9 +2,9 @@
 layout: post
 title: "Text Formatting"
 author: "Nolan"
-categories: cleaerview
+categories: clearview
 tags: [sample]
-image: arctic-1.jpg
+image: cuba-2.jpg
 ---
 
 # Markdown Support

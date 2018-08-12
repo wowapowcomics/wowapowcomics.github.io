@@ -4,7 +4,7 @@ title: "Getting Started"
 author: "Nolan
 categories: countrycatbbq
 tags: [documentation,sample]
-image: city-2.jpg
+image: cuba-1.jpg
 ---
 
 # Millennial
