@@ -1,46 +1,23 @@
-# Site
-title: Wow-a-Pow Comics
-description: by Nolan Johnson
-url: "https://wowapowcomics.com"
-baseurl: "https://wowapowcomics.com/"
-logo: logo.png                                       # Site logo
-locale: en_US
+# Site Build Settings
 
-# Left Block Images
-background:
-  homepage: images/home.png                           # this image will be shown on homepage's left block
-  post-list: images/radio.png                         # this image will be shown on post list page
-  default-post: images/tower.png                      # this image will be shown when post's front matter doesn't specify any image
+# jekyll-paginate configuration
+paginate:            5
 
-# Build
-permalink:          /:year/:month/:day/:title/
-paginate:           1
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
 sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+  sass_dir: assets/css
+  style: :nested
 
-# Google Analytics
-google-analytics: UA-23727517-1
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Wow-a-Pow Comics"
+description:	       "by Nolan Johnson"
+author:              "Nolan Johnson"
 
-# Social
-twitter:            wowapowcomics
-github:             wowapowcomics
-about:              about
-
-# Gems
-gems:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
-
-# Exclude list
-include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
