@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
-categories: documentation
+author: "Nolan
+categories: countrycatbbq
 tags: [documentation,sample]
 image: city-2.jpg
 ---

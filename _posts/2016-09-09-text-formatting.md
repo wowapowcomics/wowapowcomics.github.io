@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Text Formatting"
-author: "Paul Le"
-categories: sample
+author: "Nolan"
+categories: cleaerview
 tags: [sample]
 image: arctic-1.jpg
 ---
