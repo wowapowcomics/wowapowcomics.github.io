@@ -2,7 +2,6 @@
 layout: post
 title: "Getting Started"
 author: "Nolan
-categories: countrycatbbq
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
